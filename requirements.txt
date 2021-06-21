@@ -1,1 +1,1 @@
-!pip install pycaret
+python -m pip install pycaret
