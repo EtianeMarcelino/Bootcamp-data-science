@@ -1,5 +1,6 @@
 import pandas as pd
 import streamlit as st
+from pycaret import *
 from pycaret.regression import *
 
 # loading the trained model.
