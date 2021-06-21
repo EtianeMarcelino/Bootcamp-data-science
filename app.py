@@ -1,5 +1,5 @@
 import sys
-{sys.executable} -m pip3 install pycaret
+{sys.executable} -m pip install pycaret
 
 import pandas as pd
 import streamlit as st
