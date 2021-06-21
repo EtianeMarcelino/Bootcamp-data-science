@@ -4,7 +4,7 @@ from pycaret import *
 from pycaret.regression import *
 
 # loading the trained model.
-model = load_model('modelo-final-1')
+model = load_model('modelo-final_1')
 
 # carregando uma amostra dos dados.
 dataset = pd.read_csv('dataset.csv') 
