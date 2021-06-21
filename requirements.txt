@@ -1,1 +1,1 @@
-!pip3 install pycaret
+!pip install pycaret
