@@ -1,3 +1,6 @@
+import sys
+!pipe3 install pycaret
+
 import pandas as pd
 import streamlit as st
 from pycaret.regression import *
